@@ -7,3 +7,4 @@ Estas imágenes puden ser usadas de manera libre en cualquier servidor o proyect
 | Recurso | Locación |
 | ------ | ------ |
 | Colores | [nejehdev/srbot-images-repository/tree/main/colores](https://github.com/nejehdev/srbot-images-repository/tree/main/colores) |
+| Imágenes | Mantenimiento |
