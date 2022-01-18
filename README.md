@@ -7,4 +7,4 @@ En este sitio nosotros estaremos guardando todas las imagenes que se encuentren 
 | Recurso | Locación |
 | ------ | ------ |
 | Colores | [nejehdev/srbot-images-repository/tree/main/colores](https://github.com/nejehdev/srbot-images-repository/tree/main/colores) |
-| Imágenes | En construcción... |
+| Imágenes | [nejehdev/srbot-images-repository/tree/main/emojis](https://github.com/nejehdev/srbot-images-repository/tree/main/emojis) |
