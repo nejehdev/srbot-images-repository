@@ -4,20 +4,20 @@
     "Nombre": "Estilo #1",
     "Rareza": "Épico",
     "Precio": "15000",
-    "Link": "https://raw.githubusercontent.com/nejehdev/srbot-images-repository/master/emojis/Victoria01.gif"
+    "Link": "https://raw.githubusercontent.com/nejehdev/srbot-images-repository/master/imagenes/WinEffect01.gif"
   },
   "Victoria2": {
     "ID": "2",
     "Nombre": "Estilo #2",
     "Rareza": "Raro",
     "Precio": "10000",
-    "Link": "https://raw.githubusercontent.com/nejehdev/srbot-images-repository/main/emojis/Victoria2.gif"
+    "Link": "https://raw.githubusercontent.com/nejehdev/srbot-images-repository/master/imagenes/WinEffect02.gif"
   },
   "Victoria3": {
     "ID": "3",
     "Nombre": "Estilo #3",
     "Rareza": "Común",
     "Precio": "7500",
-    "Link": "https://raw.githubusercontent.com/nejehdev/srbot-images-repository/main/emojis/Victoria3.png"
+    "Link": "https://raw.githubusercontent.com/nejehdev/srbot-images-repository/master/imagenes/WinEffect03.png"
   }
 }
