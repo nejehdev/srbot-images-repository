@@ -1,4 +1,4 @@
-{
+[
   "Victoria1": {
     "ID": "1",
     "Nombre": "Estilo de Victoria #1",
@@ -20,4 +20,4 @@
     "Precio": "7500",
     "Link": "https://raw.githubusercontent.com/nejehdev/srbot-images-repository/main/emojis/Victoria3.png"
   }
-}
+]
