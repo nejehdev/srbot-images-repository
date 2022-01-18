@@ -1,19 +1,19 @@
 {
-  "Tipo1": {
+  "Victoria1": {
     "ID": "1",
     "Nombre": "Estilo de Victoria #1",
     "Rareza": "Épico",
     "Precio": "15000",
     "Link": "https://raw.githubusercontent.com/nejehdev/srbot-images-repository/master/emojis/Victoria01.gif"
   },
-  "Tipo2": {
+  "Victoria2": {
     "ID": "2",
     "Nombre": "Estilo de Victoria #2",
     "Rareza": "Raro",
     "Precio": "10000",
     "Link": "https://raw.githubusercontent.com/nejehdev/srbot-images-repository/main/emojis/Victoria2.gif"
   },
-  "Tipo3": {
+  "Victoria3": {
     "ID": "3",
     "Nombre": "Estilo de Victoria #3",
     "Rareza": "Común",
