@@ -19,5 +19,12 @@
     "Rareza": "Común",
     "Precio": "7500",
     "Link": "https://raw.githubusercontent.com/nejehdev/srbot-images-repository/master/imagenes/WinEffect03.png"
+  },
+  "Victoria4": {
+    "ID": "4",
+    "Nombre": "Estilo #4",
+    "Rareza": "Común",
+    "Precio": "7500",
+    "Link": "https://raw.githubusercontent.com/nejehdev/srbot-images-repository/master/imagenes/WinEffect04.png"
   }
 }
